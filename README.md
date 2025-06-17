@@ -1,0 +1,2 @@
+# PayNuker
+Discord Nuking Bot
